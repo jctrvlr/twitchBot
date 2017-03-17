@@ -1,6 +1,6 @@
 {
   "name": "jacks_twitchbot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Twitch bot -- Trying to detect/respond to questions without commands",
   "main": "index.js",
   "dependencies": {
