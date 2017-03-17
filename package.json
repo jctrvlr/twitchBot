@@ -1,0 +1,25 @@
+{
+  "name": "jacks_twitchbot",
+  "version": "0.0.0",
+  "description": "Twitch bot -- Trying to detect/respond to questions without commands",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "tmi.js": "^1.1.2",
+    "word-list": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctrvlr/twitchBot.git"
+  },
+  "author": "John Cummings <jack@jackc.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jctrvlr/twitchBot/issues"
+  },
+  "homepage": "https://github.com/jctrvlr/twitchBot#readme"
+}
